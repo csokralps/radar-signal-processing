@@ -25,17 +25,18 @@ OFDM haberleşme sinyalinin radar olarak kullanıldığı (ISAC) bir sistemin MA
 5. **Nicemleme kaybı:** Aynı Monte Carlo denemeleri kayan noktada da işlenerek Pd kaybının ne kadarının nicemlemeden, ne kadarının gürültü ve yan loblardan kaynaklandığı ayrıştırılır.
 
 ## Sonuçlar
+## Sonuçlar
 
-![Şekil 1](figures/sekil1_cfar_ve_konum.png)
+![Şekil 1](sekil1_cfar_ve_konum.png)
 *Menzil-Doppler haritası, CFAR Pfa doğrulaması ve hedef konumuna göre zayıf hedef tespiti*
 
-![Şekil 2](figures/sekil2_sabit_nokta.png)
+![Şekil 2](sekil2_sabit_nokta.png)
 *Bit genişliğine göre sabit nokta Pd ve Pfa*
 
-![Şekil 3](figures/sekil3_ana_matris.png)
+![Şekil 3](sekil3_ana_matris.png)
 *Bit genişliği × pencere × güç farkı deney matrisi*
 
-![Şekil 4](figures/sekil4_nicemleme_kaybi.png)
+![Şekil 4](sekil4_nicemleme_kaybi.png)
 *Kayan noktaya göre nicemleme kaynaklı Pd kaybı*
 
 ## Çalıştırma
